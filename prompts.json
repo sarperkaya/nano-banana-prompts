@@ -3,27 +3,87 @@
     {
       "name": "Cyberpunk Gelecek",
       "category": "Bilim Kurgu",
-      "prompt": "Sinematik, dikey portre. Neon ışıklı, fütüristik bir Cyberpunk metropolünde..."
+      "prompt": "Sinematik, dikey portre. Neon ışıklı, fütüristik bir Cyberpunk metropolünde, yüksek teknoloji kıyafetler giyen kişi. Yağmurdan ıslanmış sokaklar, holografik reklamlar. Dinamik, hareketli bir an."
     },
     {
       "name": "Galaktik Kaşif",
       "category": "Bilim Kurgu",
-      "prompt": "Sinematik, dikey portre. Bir uzay gemisi kokpitinde..."
+      "prompt": "Sinematik, dikey portre. Bir uzay gemisi kokpitinde veya bilinmeyen bir gezegende, fütüristik bir kaşif kıyafeti giyen kişi. Dışarıda yıldızlar ve nebulalar. Gemi kaptanı pozu. "
     },
     {
       "name": "Osmanlı Dönemi",
       "category": "Tarihi",
-      "prompt": "Sinematik, dikey portre. Zengin detaylı bir Osmanlı Dönemi sahnesinde..."
+      "prompt": "Sinematik, dikey portre. Zengin detaylı bir Osmanlı Dönemi sahnesinde (Pazar, sokak, saray, kırsal), işlemeli döneme uygun kıyafetler giyen kişi. Loş, sıcak ışık. Düşünceli, asil bir portre."
+    },
+    {
+      "name": "Vahşi Batı",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Gün batımında, tozlu bir Vahşi Batı kasabasında veya arazisinde, kovboy şapkası ve döneme uygun kıyafetler giyen kişi. Sinematik ışıklandırma. Karizmatik, sert bir duruş."
+    },
+    {
+      "name": "Rönesans Dönemi",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Bir Rönesans dönemi tablosu gibi, zengin kumaşlı (kadife, ipek) kıyafetler içinde. Yumuşak, 'chiaroscuro' tarzı ışık. Tablodan fırlamış gibi."
     },
     {
       "name": "Viking Çağı",
       "category": "Tarihi",
-      "prompt": "Sinematik, dikey portre. Fırtınalı bir İskandinav fiyordunda..."
+      "prompt": "Sinematik, dikey portre. Fırtınalı bir İskandinav fiyordunda, yelkenlide veya köyde, zırh ve kürk giyen bir Viking. Meşale ışığı, dramatik gölgeler. Savaş ortasında veya bir keşif anı."
+    },
+    {
+      "name": "Feodal Japonya (Samuray)",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Feodal Japonya'da (Bambu ormanı, tapınak, dojo), samuray zırhı veya geleneksel kıyafetler giyen kişi. Keskin, odaklanmış ışık. Meditatif veya savaşa hazır."
+    },
+    {
+      "name": "Roma İmparatorluğu",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Antik Roma İmparatorluğu'nda (Senato, kolezyum, askeri kamp), 'lorica segmentata' zırhı giyen bir general veya toga giymiş bir asil. Dramatik, güçlü ışıklandırma. Liderlik pozu."
+    },
+    {
+      "name": "Antik Mısır",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Antik Mısır'da, piramitlerin önünde veya tapınak içinde, keten kıyafetler ve altın takılar giyen bir asil. Sıcak çöl güneşi, hiyeroglifler. Güçlü bir duruş."
+    },
+    {
+      "name": "Korsan Çağı",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Bir korsan gemisi güvertesinde veya tropik bir adada, 'tricorn' şapkalı, rüzgarlı bir Karayip korsanı. Fırtınalı gökyüzü. Maceracı, pervasız bir bakış."
     },
     {
       "name": "Elf (Orta Dünya)",
       "category": "Fantastik",
-      "prompt": "Sinematik, dikey portre. Orta Dünya'da bir ormanda..."
+      "prompt": "Sinematik, dikey portre. Orta Dünya'da (Middle-earth) bir ormanda veya elf şehrinde, zarif zırhlı veya giysili bir Elf. Işık hüzmeleri, mistik bir atmosfer. Zarif ve uyanık bir an."
+    },
+    {
+      "name": "Gotik / Viktorya Dönemi",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. 19. yüzyıl gotik/Viktoryen bir ortamda (loş bir kütüphane, sisli Londra sokağı), koyu renkli kadife/dantel giyen bir karakter. Gaz lambası ışığı, gizemli gölgeler."
+    },
+    {
+      "name": "Stempunk Dönemi",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Dişliler ve buharla dolu bir Viktorya dönemi atölyesinde, gözlüklü ve mekanik aksesuarlı bir Steampunk mucit. 'Buluş' anı."
+    },
+    {
+      "name": "1920'ler Art Deco",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. 1920'lerin görkemli bir Art Deco binasında, şık, pullu elbise veya smokin giyen kişi. Geometrik desenler, altın ve siyah tonlar. Görkemli bir parti anı."
+    },
+    {
+      "name": "1940'lar Film Noir",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. 1940'ların Film Noir tarzında, trençkot giymiş, gölgeler içinde duran kişi. Sert, tek yönlü ışık, jaluzi gölgeleri. Gizemli bir an."
+    },
+    {
+      "name": "Taş Devri",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Bir mağara girişinde veya ilkel bir ormanda, kürk giyen bir Taş Devri avcısı. Kamp ateşi ışığı. Av anı veya dinlenme."
+    },
+    {
+      "name": "Post-Apokaliptik",
+      "category": "Fantastik",
+      "prompt": "Sinematik, dikey portre. Yıkık bir şehir manzarasında, yıpranmış kıyafetler giyen, hayatta kalan kişi. Tozlu, soluk gün ışığı. Hayatta kalma mücadelesi."
     }
   ],
   "poses": ["looking away", "action shot", "smiling"],
