@@ -1,0 +1,32 @@
+{
+  "styles": [
+    {
+      "name": "Cyberpunk Gelecek",
+      "category": "Bilim Kurgu",
+      "prompt": "Sinematik, dikey portre. Neon ışıklı, fütüristik bir Cyberpunk metropolünde..."
+    },
+    {
+      "name": "Galaktik Kaşif",
+      "category": "Bilim Kurgu",
+      "prompt": "Sinematik, dikey portre. Bir uzay gemisi kokpitinde..."
+    },
+    {
+      "name": "Osmanlı Dönemi",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Zengin detaylı bir Osmanlı Dönemi sahnesinde..."
+    },
+    {
+      "name": "Viking Çağı",
+      "category": "Tarihi",
+      "prompt": "Sinematik, dikey portre. Fırtınalı bir İskandinav fiyordunda..."
+    },
+    {
+      "name": "Elf (Orta Dünya)",
+      "category": "Fantastik",
+      "prompt": "Sinematik, dikey portre. Orta Dünya'da bir ormanda..."
+    }
+  ],
+  "poses": ["looking away", "action shot", "smiling"],
+  "lightings": ["neon light", "sunlight", "dark moody"],
+  "angles": ["low angle", "wide shot", "close up"]
+}
