@@ -84,6 +84,11 @@
       "name": "Post-Apokaliptik",
       "category": "Fantastik",
       "prompt": "Sinematik, dikey portre. Yıkık bir şehir manzarasında, yıpranmış kıyafetler giyen, hayatta kalan kişi. Tozlu, soluk gün ışığı. Hayatta kalma mücadelesi."
+    },
+     {
+      "name": "Süper Kahraman",
+      "category": "Fantastik",
+      "prompt": "Transform into superhero origin story movie poster. Subject in confident pose with cape or costume elements flowing, heroic expression with slight upward gaze."
     }
   ],
   "poses": ["looking away", "action shot", "smiling"],
