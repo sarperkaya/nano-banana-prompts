@@ -1,0 +1,109 @@
+{
+  "styles": [
+    {
+      "name": "Cyberpunk Future",
+      "category": "Sci-Fi",
+      "prompt": "Cinematic vertical portrait. A person wearing high-tech gear in a neon-lit, futuristic Cyberpunk metropolis. Rain-soaked streets, holographic advertisements. Dynamic, bustling moment, highly detailed."
+    },
+    {
+      "name": "Galactic Explorer",
+      "category": "Sci-Fi",
+      "prompt": "Cinematic vertical portrait. Inside a spaceship cockpit or on an unknown planet, a person wearing a futuristic explorer suit. Stars and nebulae visible outside. Spaceship captain pose, adventurous atmosphere."
+    },
+    {
+      "name": "Ottoman Era",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In a richly detailed Ottoman Era scene (Bazaar, street, palace, or countryside), a person wearing period-appropriate embroidered clothing. Dim, warm ambient lighting. Thoughtful, noble portrait."
+    },
+    {
+      "name": "Wild West",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. At sunset, in a dusty Wild West town or landscape, a person wearing a cowboy hat and period attire. Cinematic lighting, golden hour. Charismatic, tough stance."
+    },
+    {
+      "name": "Renaissance Period",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. Resembling a Renaissance era oil painting, subject dressed in rich fabrics (velvet, silk). Soft, 'chiaroscuro' style dramatic lighting. As if stepping out of a classic masterpiece."
+    },
+    {
+      "name": "Viking Age",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In a stormy Scandinavian fjord, on a longship or in a village, a Viking warrior wearing armor and furs. Torchlight, dramatic shadows. Mid-battle or a moment of discovery."
+    },
+    {
+      "name": "Feudal Japan (Samurai)",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In Feudal Japan (Bamboo forest, temple, or dojo), a person wearing samurai armor or traditional robes. Sharp, focused lighting. Meditative or ready for battle."
+    },
+    {
+      "name": "Roman Empire",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In the Ancient Roman Empire (Senate, coliseum, or military camp), a general wearing 'lorica segmentata' armor or a noble in a toga. Dramatic, strong lighting. Leadership pose."
+    },
+    {
+      "name": "Ancient Egypt",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In Ancient Egypt, in front of pyramids or inside a temple, a noble wearing fine linen clothes and gold jewelry. Warm desert sun, hieroglyphs in background. Powerful stance."
+    },
+    {
+      "name": "Age of Pirates",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. On a pirate ship deck or a tropical island, a wind-swept Caribbean pirate wearing a 'tricorn' hat. Stormy sky background. Adventurous, reckless expression."
+    },
+    {
+      "name": "Elf (Middle Earth)",
+      "category": "Fantasy",
+      "prompt": "Cinematic vertical portrait. In a Middle-earth forest or elf city, an Elf in elegant armor or robes. Ethereal rays of light, mystical atmosphere. Elegant and alert moment."
+    },
+    {
+      "name": "Gothic / Victorian",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In a 19th-century Gothic/Victorian setting (dim library, foggy London street), a character wearing dark velvet or lace. Gas lamp lighting, mysterious shadows, moody atmosphere."
+    },
+    {
+      "name": "Steampunk Era",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In a Victorian workshop filled with gears and steam, a Steampunk inventor wearing goggles and mechanical accessories. A moment of 'invention' or discovery."
+    },
+    {
+      "name": "1920s Art Deco",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. In a grand 1920s Art Deco building, a person wearing a chic, sequined dress or tuxedo. Geometric patterns, gold and black tones. Grand party atmosphere."
+    },
+    {
+      "name": "1940s Film Noir",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. 1940s Film Noir style, a person in a trench coat standing in the shadows. Harsh, directional light, venetian blind shadows. A mysterious, suspenseful moment."
+    },
+    {
+      "name": "Stone Age",
+      "category": "Historical",
+      "prompt": "Cinematic vertical portrait. At a cave entrance or primeval forest, a Stone Age hunter wearing furs. Campfire light illuminating the face. Hunting moment or resting."
+    },
+    {
+      "name": "Post-Apocalyptic",
+      "category": "Fantasy",
+      "prompt": "Cinematic vertical portrait. In a ruined city landscape, a survivor wearing weathered, rugged clothes. Dusty, pale daylight. Atmosphere of struggle and survival."
+    },
+    {
+      "name": "Superhero",
+      "category": "Fantasy",
+      "prompt": "Cinematic vertical portrait. Superhero origin story movie poster style. Subject in a confident pose with cape or costume elements flowing, heroic expression with a slight upward gaze. Dramatic backlight."
+    }
+  ],
+  "poses": [
+    "looking away",
+    "action shot",
+    "smiling"
+  ],
+  "lightings": [
+    "neon light",
+    "sunlight",
+    "dark moody"
+  ],
+  "angles": [
+    "low angle",
+    "wide shot",
+    "close up"
+  ]
+}
